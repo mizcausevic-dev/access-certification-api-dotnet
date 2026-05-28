@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860">
+    <rect width="1400" height="860" fill="#070a0f"/>
+    <rect x="28" y="28" width="1344" height="804" rx="30" fill="#0a1426" stroke="rgba(120,255,170,.18)"/>
+    <rect x="58" y="58" width="1284" height="110" rx="24" fill="#0b1220" stroke="rgba(120,255,170,.12)"/>
+    <text x="94" y="96" fill="#37ff8b" font-size="14" font-weight="700" font-family="Consolas, monospace">
+<tspan x="94" dy="0">CAMPAIGN LANE</tspan>
+</text>
+    <text x="94" y="140" fill="#f5f7ff" font-size="38" font-weight="700" font-family="Georgia, serif">
+<tspan x="94" dy="0">Campaign Lane</tspan>
+</text>
+    <text x="94" y="188" fill="#b8c6db" font-size="18" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="94" dy="0">Named lanes for privileged roles, guest accounts, service accounts, and packet signoff</tspan>
+<tspan x="94" dy="22">ownership.</tspan>
+</text>
+    
+    
+    <rect x="58" y="206" width="620" height="250" rx="20" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="86" y="242" fill="#19c7ff" font-size="12" font-weight="700" font-family="Consolas, monospace">
+<tspan x="86" dy="0">PRIVILEGED ACCESS LANE</tspan>
+</text>
+    <text x="86" y="288" fill="#f5f7ff" font-size="30" font-weight="700" font-family="Georgia, serif">
+<tspan x="86" dy="0">Privileged access</tspan>
+<tspan x="86" dy="37">lane</tspan>
+</text>
+    <text x="86" y="338" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="86" dy="0">Identity Governance owns break-</tspan>
+<tspan x="86" dy="20">glass role certification, admin</tspan>
+<tspan x="86" dy="20">app recertification, and renewal</tspan>
+<tspan x="86" dy="20">blockers tied to elevated access.</tspan>
+</text>
+    
+    
+    <rect x="708" y="206" width="634" height="250" rx="20" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="736" y="242" fill="#ffcc66" font-size="12" font-weight="700" font-family="Consolas, monospace">
+<tspan x="736" dy="0">GUEST ACCESS LANE</tspan>
+</text>
+    <text x="736" y="288" fill="#f5f7ff" font-size="30" font-weight="700" font-family="Georgia, serif">
+<tspan x="736" dy="0">Guest access lane</tspan>
+</text>
+    <text x="736" y="338" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="736" dy="0">IAM Operations keeps sponsor</tspan>
+<tspan x="736" dy="20">ownership, vendor guests, and</tspan>
+<tspan x="736" dy="20">third-party access decisions</tspan>
+<tspan x="736" dy="20">visible before renewal windows</tspan>
+<tspan x="736" dy="20">close.</tspan>
+</text>
+    
+    
+    <rect x="58" y="488" width="620" height="294" rx="20" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="86" y="524" fill="#b88cff" font-size="12" font-weight="700" font-family="Consolas, monospace">
+<tspan x="86" dy="0">SERVICE ACCOUNT LANE</tspan>
+</text>
+    <text x="86" y="570" fill="#f5f7ff" font-size="30" font-weight="700" font-family="Georgia, serif">
+<tspan x="86" dy="0">Service account lane</tspan>
+</text>
+    <text x="86" y="620" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="86" dy="0">Platform Security tracks non-human</tspan>
+<tspan x="86" dy="20">access, legacy principals, and</tspan>
+<tspan x="86" dy="20">accountable-owner gaps so hidden</tspan>
+<tspan x="86" dy="20">exposure does not pass through</tspan>
+<tspan x="86" dy="20">certification silently.</tspan>
+</text>
+    
+    
+    <rect x="708" y="488" width="634" height="294" rx="20" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="736" y="524" fill="#37ff8b" font-size="12" font-weight="700" font-family="Consolas, monospace">
+<tspan x="736" dy="0">PACKET SIGNOFF LANE</tspan>
+</text>
+    <text x="736" y="570" fill="#f5f7ff" font-size="30" font-weight="700" font-family="Georgia, serif">
+<tspan x="736" dy="0">Packet signoff lane</tspan>
+</text>
+    <text x="736" y="620" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="736" dy="0">Security Governance keeps the</tspan>
+<tspan x="736" dy="20">campaign packet honest: reviewer</tspan>
+<tspan x="736" dy="20">closure, evidence links, and final</tspan>
+<tspan x="736" dy="20">signoff posture before renewal.</tspan>
+</text>
+    
+    
+    </svg>

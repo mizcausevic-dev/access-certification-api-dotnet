@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860">
+    <rect width="1400" height="860" fill="#070a0f"/>
+    <rect x="28" y="28" width="1344" height="804" rx="30" fill="#0a1426" stroke="rgba(120,255,170,.18)"/>
+    <rect x="58" y="58" width="1284" height="110" rx="24" fill="#0b1220" stroke="rgba(120,255,170,.12)"/>
+    <text x="94" y="96" fill="#37ff8b" font-size="14" font-weight="700" font-family="Consolas, monospace">
+<tspan x="94" dy="0">ACCESS CERTIFICATION API</tspan>
+</text>
+    <text x="94" y="140" fill="#f5f7ff" font-size="38" font-weight="700" font-family="Georgia, serif">
+<tspan x="94" dy="0">Access Certification API</tspan>
+</text>
+    <text x="94" y="188" fill="#b8c6db" font-size="18" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="94" dy="0">C# control plane for privileged access recertification, guest review pressure, service-</tspan>
+<tspan x="94" dy="22">account ownership, and packet signoff posture.</tspan>
+</text>
+    
+    <rect x="58" y="206" width="306" height="154" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.12)"/>
+    <text x="88" y="274" fill="#19c7ff" font-size="50" font-weight="700" font-family="Inter,Segoe UI,Arial">
+<tspan x="88" dy="0">2</tspan>
+</text>
+    <text x="88" y="316" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="88" dy="0">active campaigns</tspan>
+<tspan x="88" dy="20">one current renewal packet</tspan>
+</text>
+
+    <rect x="382" y="206" width="306" height="154" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.12)"/>
+    <text x="412" y="274" fill="#b88cff" font-size="50" font-weight="700" font-family="Inter,Segoe UI,Arial">
+<tspan x="412" dy="0">6</tspan>
+</text>
+    <text x="412" y="316" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="412" dy="0">review gaps</tspan>
+<tspan x="412" dy="20">4 blocking signoff issues</tspan>
+</text>
+
+    <rect x="706" y="206" width="306" height="154" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.12)"/>
+    <text x="736" y="274" fill="#ffcc66" font-size="50" font-weight="700" font-family="Inter,Segoe UI,Arial">
+<tspan x="736" dy="0">3</tspan>
+</text>
+    <text x="736" y="316" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="736" dy="0">access risks</tspan>
+<tspan x="736" dy="20">privileged and guest exposure</tspan>
+</text>
+
+    <rect x="1030" y="206" width="312" height="154" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.12)"/>
+    <text x="1060" y="274" fill="#37ff8b" font-size="40" font-weight="700" font-family="Inter,Segoe UI,Arial">
+<tspan x="1060" dy="0">Embedded</tspan>
+</text>
+    <text x="1060" y="316" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="1060" dy="0">hosted preview planned</tspan>
+<tspan x="1060" dy="20">delivery by engagement</tspan>
+</text>
+
+    
+    <rect x="58" y="392" width="620" height="390" rx="20" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="86" y="428" fill="#19c7ff" font-size="12" font-weight="700" font-family="Consolas, monospace">
+<tspan x="86" dy="0">CERTIFICATION PRESSURE STAYS VISIBLE BEFORE RENEWAL</tspan>
+</text>
+    <text x="86" y="474" fill="#f5f7ff" font-size="30" font-weight="700" font-family="Georgia, serif">
+<tspan x="86" dy="0">Certification</tspan>
+<tspan x="86" dy="37">pressure stays</tspan>
+<tspan x="86" dy="37">visible before</tspan>
+<tspan x="86" dy="37">renewal</tspan>
+</text>
+    <text x="86" y="524" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="86" dy="0">Privileged role reviews, vendor</tspan>
+<tspan x="86" dy="20">guest entitlement decisions,</tspan>
+<tspan x="86" dy="20">service-account owners, and packet</tspan>
+<tspan x="86" dy="20">signoff remain readable together</tspan>
+<tspan x="86" dy="20">so access renewal does not become</tspan>
+<tspan x="86" dy="20">a blind administrative exercise.</tspan>
+</text>
+    
+    
+    <rect x="708" y="392" width="634" height="390" rx="20" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="736" y="428" fill="#37ff8b" font-size="12" font-weight="700" font-family="Consolas, monospace">
+<tspan x="736" dy="0">BLOCKING EXCEPTIONS ARE ROUTED BY LANE AND OWNER</tspan>
+</text>
+    <text x="736" y="474" fill="#f5f7ff" font-size="30" font-weight="700" font-family="Georgia, serif">
+<tspan x="736" dy="0">Blocking exceptions</tspan>
+<tspan x="736" dy="37">are routed by lane</tspan>
+<tspan x="736" dy="37">and owner</tspan>
+</text>
+    <text x="736" y="524" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="736" dy="0">Identity Governance, IAM</tspan>
+<tspan x="736" dy="20">Operations, Platform Security, and</tspan>
+<tspan x="736" dy="20">Security Governance each get the</tspan>
+<tspan x="736" dy="20">same public proof frame: what is</tspan>
+<tspan x="736" dy="20">over-entitled, what lacks</tspan>
+<tspan x="736" dy="20">evidence, and what must close</tspan>
+<tspan x="736" dy="20">before access-certification</tspan>
+<tspan x="736" dy="20">renewal can be trusted.</tspan>
+</text>
+    
+    
+    </svg>
