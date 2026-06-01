@@ -17,3 +17,9 @@ jobs:
         run: dotnet restore access-certification-api-dotnet.sln
       - name: Test
         run: dotnet test access-certification-api-dotnet.sln --configuration Release
+
+# Least-privilege: read-only test/CI runs. GITHUB_TOKEN gets no write to
+# anything. The publish/release flows (where they exist) carry their own
+# scoped permissions per-workflow.
+permissions:
+  contents: read
