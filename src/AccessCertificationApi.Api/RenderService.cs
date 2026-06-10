@@ -238,15 +238,69 @@ public static class RenderService
               </aside>
             </div>
             {{{body}}}
+            {{{ProductDepth()}}}
+            {{{CommonPattern()}}}
             <div class="footer">
               <div>access-certification-api-dotnet · synthetic sample data only</div>
-              <div>routes: / · /campaign-lane · /review-exceptions · /attestation-posture · /verification · /docs</div>
+              <div>
+                <a class="meta-chip" href="https://github.com/mizcausevic-dev/access-certification-api-dotnet">GitHub</a>
+                <a class="meta-chip" href="https://portfolio.kineticgain.com/">Portfolio</a>
+                <a class="meta-chip" href="https://suite.kineticgain.com/">Suite</a>
+                <a class="meta-chip" href="https://www.linkedin.com/in/mirzacausevic/">LinkedIn</a>
+                <a class="meta-chip" href="https://kineticgain.com/">Kinetic Gain</a>
+              </div>
             </div>
           </div>
         </body>
         </html>
         """;
     }
+
+    private static string ProductDepth() => """
+        <section class="section">
+          <div class="sh"><h2>Product depth</h2><div class="note">buyer value · technical proof · GTM story</div></div>
+          <div class="stack">
+            <div class="src">
+              <div class="src-name">SaaS GTM analyst</div>
+              <div class="src-tit">Sell access-certification clarity, not generic IAM posture.</div>
+              <p>The product frames renewal readiness around exposed access lanes, accountable owners, missing evidence, and whether the certification story is safe enough for leadership review.</p>
+            </div>
+            <div class="src">
+              <div class="src-name">Value architect</div>
+              <div class="src-tit">Turn entitlement debt into prioritized remediation.</div>
+              <p>Privileged roles, third-party guests, service accounts, reviewer cadence, evidence gaps, and signoff blockers resolve into one inspectable action surface.</p>
+            </div>
+            <div class="src">
+              <div class="src-name">Technical proof</div>
+              <div class="src-tit">Back the narrative with a working .NET implementation.</div>
+              <p>The repo includes C# scoring, ASP.NET routes, JSON APIs, synthetic fixtures, static Pages output, screenshots, tests, smoke checks, and public-data safety boundaries.</p>
+            </div>
+          </div>
+        </section>
+        """;
+
+    private static string CommonPattern() => """
+        <section class="section">
+          <div class="sh"><h2>What these repos have in common</h2><div class="note">risk · owner · proof · next action</div></div>
+          <div class="board">
+            <article class="pcard">
+              <div class="ptop"><div class="pnum">01</div><div class="ppri">Risk</div></div>
+              <h3>Each product names the ambiguity.</h3>
+              <p class="pdesc">The Kinetic Gain pattern turns cost, governance, reliability, revenue, or compliance drag into a named decision surface instead of a screenshot dump.</p>
+            </article>
+            <article class="pcard">
+              <div class="ptop"><div class="pnum">02</div><div class="ppri">Proof</div></div>
+              <h3>The claim is backed by implementation evidence.</h3>
+              <p class="pdesc">Routes, APIs, CLI output, fixtures, docs, screenshots, and validation commands make the surface reviewable for technical and non-technical readers.</p>
+            </article>
+            <article class="pcard">
+              <div class="ptop"><div class="pnum">03</div><div class="ppri">Action</div></div>
+              <h3>The next move is visible.</h3>
+              <p class="pdesc">Every lane resolves into owner, severity, blocker, recommendation, and executive narrative so the surface supports a decision, not just discovery.</p>
+            </article>
+          </div>
+        </section>
+        """;
 
     private static (string Href, string Label) Nav(string href, string label) => (href, label);
 }

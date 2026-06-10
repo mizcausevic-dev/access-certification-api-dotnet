@@ -24,6 +24,28 @@ This repo is the public proof surface for that pattern:
 - structured JSON endpoints under `/api/*`
 - static Pages export with `robots.txt`, `sitemap.xml`, and `CNAME`
 
+## Product depth
+
+Access Certification API turns entitlement review sprawl into a board-readable IAM control surface. It is built for security leaders, identity-governance teams, platform owners, audit stakeholders, and operating partners who need to see whether privileged roles, guest access, service accounts, and campaign signoff are safe enough to renew.
+
+For non-technical readers, it answers: which access lanes are exposed, who owns the remediation, what evidence is missing, and whether the renewal story is defensible. For technical reviewers, it exposes a C# / ASP.NET API, synthetic review packets, JSON endpoints, static Pages output, screenshots, tests, and smoke checks that make the public claim inspectable.
+
+## What these repos have in common
+
+This repo follows the Kinetic Gain control-plane pattern:
+
+- name the operational ambiguity instead of hiding it inside screenshots or generic landing-page copy
+- expose the decision surface as UI, JSON payloads, docs, screenshots, and validation commands
+- connect GTM value, product narrative, technical proof, and executive review into the same public artifact
+- keep public demos synthetic and safe while preserving enough structure to show how a real deployment would work
+
+## Operating workflow
+
+1. Load a synthetic access-certification packet covering campaigns, review exceptions, attestation posture, owners, and blockers.
+2. Route privileged access, guest access, service-account, cadence, evidence, and signoff issues into one operator-readable surface.
+3. Generate campaign-lane, exception, attestation, verification, and API views from the same evidence model.
+4. Ship static public proof without exposing tenant, user, privileged-access, or production identity data.
+
 ## Screenshots
 
 ![Overview](./screenshots/01-overview.svg)
